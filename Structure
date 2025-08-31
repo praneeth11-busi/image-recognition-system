@@ -1,0 +1,18 @@
+Project Structure
+text
+image-recognition-system/
+│
+├── app.py
+├── model_training.py
+├── requirements.txt
+├── static/
+│   ├── css/
+│   │   └── style.css
+│   └── js/
+│       └── script.js
+├── templates/
+│   ├── index.html
+│   └── result.html
+├── models/
+│   └── image_classifier.h5
+└── uploads/
